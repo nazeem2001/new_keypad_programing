@@ -1,0 +1,1 @@
+keyboard.tapKey('g');keyboard.tapKey('h');keyboard.tapKey('w');keyboard.tapKey('j');keyboard.tapKey('s');keyboard.tapKey('j');keyboard.tapKey('j');keyboard.tapKey('d');keyboard.tapKey('f');keyboard.tapKey('j');keyboard.tapKey('k');keyboard.tapKey('f');keyboard.tapKey('j');keyboard.tapKey('j');keyboard.tapKey('d');
